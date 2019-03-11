@@ -1,6 +1,8 @@
 # About!
 ## My Story
 
+![](Frangipeni%20profile%20pic.jpg)
+
 ‘Everything Happens for a reason’ – Fabulously cliché, yet so true! 
 
 The Year was 2009! One cloudy day our lives would be changed forever! At the time my life was on path to success! I was studying hard and achieving fantastic grades at the University of the Sunshine Coast. I just received a job offer of a life time. The company was willing to sponsor me through the rest of my degree! Life was looking grand. I could nearly see the light at the end of the tunnel! The bright, luminous future career that was approaching and nearly within reach! Over half way through my degree and I could nearly taste the ripe and juicy benefits of having a stable income and career for my family!
