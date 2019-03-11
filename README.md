@@ -1,4 +1,4 @@
-## About!
+# About!
 ## My Story
 
 ‘Everything Happens for a reason’ – Fabulously cliché, yet so true! 
@@ -15,7 +15,7 @@ Life may throw you some curve balls now and then, however you also end up exactl
 
 Welcome to My RMIT Profile!  
 
-### Contact
+# Contact
 Name: Karla Mc
 
 Email: s3775612@student.rmit.edu.au
@@ -23,7 +23,7 @@ Email: s3775612@student.rmit.edu.au
 Location: Gold Coast, Queensland
 
 
-## Interest in IT
+# Interest in IT
 
 Growing up I was privileged to have access to a computer as part of the family business. I was able to gain basic computer skills, to which I have improved over the years via general courses of study. This includes a diploma of project management, advance diploma of Social media management and previous university business subjects. These courses have enhanced my skill set, however it has all so created a passion to have a career in the IT industry. 
 
@@ -56,13 +56,13 @@ To obtain even an entry level position as an IT data analysist, it is a requirem
 The responsibility of a data analysist is to decipher the significate data from what is not relevant, while producing hypothetical solutions, predictions, and more efficient running systems and ideas.
 
 
-## Personal Profile
+# Personal Profile
 
 
-Myers-Briggs Personality test results
+## Myers-Briggs Personality test results
 https://www.16personalities.com/infj-personality 
 
-INFJ –
+### INFJ –
 
 I was fortunate to discover the Myers-Briggs Personality theory many years ago. It was interesting to have the same results even though I have grown and changed in major increments since taking the test last.  Looking into the career and team work abilities of an INFJ was insightful yet confirming of the strength and weaknesses I felt I already possessed. I have also been a hard worker, problem solver and thrive if the project is helping the world be a better place.
 
@@ -71,7 +71,7 @@ It is clear that I do not like confrontation and will do what needs to be done t
 Being an introvert, I can take a back seat in a team environment, however when my ideas/ visions are in alignment with the objectives to complete a task, I am able to express this in a compassionate way. I will not struggle for power within a group, but able to couch, inspire and compromise, which is also great qualities if called upon to be a leader. I thrive in a peaceful environment with reciprocal respect, therefore, will seek team members that I respect, trust and can communicate well with.  
 
 
-VARK learning style test
+### VARK learning style test
 http://vark-learn.com/the-vark-questionnaire/?p=results  
 
 
@@ -85,22 +85,22 @@ It was difficult to find a free online integrity test, however I found this test
 I believe I am a very honest person to which I hold a great level of pride in my high standards of integrity in all aspects of my life, work environment included. I have never stolen from anyone! I also have no time for others who choose to just take from others.
 
 
-## Project Idea
+# Project Idea
 
 
-Overview 
+## Overview 
 
-Emotional Regulator.
+### Emotional Regulator.
 
 This project involves the development of an App that can be used not only by the account holder but all Support workers and or networks for those who suffer with emotional issues. This will help translate patterns in daily mental health issues and discover trigging situations that may worsen their current emotional regulation. This app will also allow support persons to prepare before arriving, assist accordingly and monitor the progression/ successfulness of implemented techniques. The app will be designed to support those suffering with chronic medical conditions. The emotional and stress levels of a diagnosed person can peek to extreme levels and in turn worsen symptoms and deepen mental health issues.
 
-Motivation
+### Motivation
 
 Chronic illness has become a global concern with it now affecting over 61% of the world’s population. Millions of people are affected by Chronic diseases, which shows the demand for such an app. This App would have the ability to help the emotional regulation of the suffering. It has been concluded that emotional regulation has an immense consequence on health choices. This includes areas of personal hygiene, diet and following through with treatment. 
 
 Studies have shown that - ‘Overwhelming emotional demands deplete the resources needed for everyday self-care management of chronic disease, contributing to poor health outcomes.’ (Wierenga KL, Lehto RH, Given B, 2017 Aug)
 
-Description 
+### Description 
 
 The app will implement visual cues to allow an easy to use, step by step data input method. While suffering from Chronic illness patients have less mental function to cope with complicated questions and or patience for intense and time-consuming tasks. 
 
@@ -113,27 +113,27 @@ The diagram below is the early stage design of the first step. This is one of th
 
 The App will be designed to benefit the user! Once a pattern is established it is easier to find and implement solutions!
 
-Tools, skills and Technologies
+### Tools, skills and Technologies
 
 There are many software and programs available to help build and construct your first App, such as Xcode and Swift. However, to create this app, there will be the requirement of advance skills in programming, software coding, internet and serve security, photoshop, website design and legal assistance. Guaranteeing information protection is essential as this app will store and allow consent sharing of medical and personal information.
 
 The skills, knowledge and network of professionals to produce this app will be attained over the next 3 years during my IT degree. The funding will primarily to be required thought investment, sponsorship and or shared contribution of shareholders or project benefactors. The production of this app is feasible as a long-term project. This App is evident of being a high-yielding investment due to the fact it could be contributing to better daily living for over 4 billion people who suffer with Chronic diseases around the world.  
 
-Outcome
+### Outcome
 
 This App has the potential to successfully help the emotional regulation of chronic illness sufferers, which in turn would increase their likelihood of survival, boost treatment recovery, and surge better health outcomes globally. Chronic illness is a serious and global epidemic. It has been proven that emotional regulation can strongly affect anyone and especially those that are in chronic pain, unwell or suffering daily. This App will be designed to benefit the world one Chronic sufferer at a time.
 
-Reference
+# Reference
 
 
-Online Quiz’s 
+## Online Quiz’s 
 
-Personality test
+###Personality test
 
 
    •	NERIS Analytics Limited 2019, 16 personalities, 2011-2019 NERIS Analytics Limited, viewed 5th March 2019, https://www.16personalities.com/infj-personality
    
-Learning tests
+### Learning tests
 
    •	SOAR Learning Inc 2019, How to Study, Arc Seven Technology, Viewed: 10th March 2019, https://www.how-to-study.com/learning-style-assessment/
    
@@ -142,12 +142,12 @@ Learning tests
   •	VARK Learn Limited 2019, The VARK Questionnaire How Do I Learn Best? VARK Questionnaire version 7.1, Viewed 10th March 2019 http://vark-learn.com/the-vark-questionnaire/?p=results
   
 
-Other tests 
+### Other tests 
 
   •	Psychology Today 2019, Integrity and Work Ethics Test, Sussex Publishers LLC, viewed: 10th March, 2019, http://psychologytoday.tests.psychtests.com/bin/transfer/
   
 
-Documents 
+### Documents 
 
   •	Australian Institute of Health and Welfare 2018, Australia’s health 2018. Australia’s health series no. 16. AUS 221. Canberra: AIHW, viewed 1oth March 2019 https://www.aihw.gov.au/getmedia/6bc8a4f7-c251-4ac4-9c05-140a473efd7b/aihw-aus-221-chapter-3-3.pdf.aspx
   
