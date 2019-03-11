@@ -136,21 +136,31 @@ Personality test
 Learning tests
 
    •	SOAR Learning Inc 2019, How to Study, Arc Seven Technology, Viewed: 10th March 2019, https://www.how-to-study.com/learning-style-assessment/
+   
   •	Psychology Today 2019, Multiple Intelligences & Learning Style Test, Sussex Publishers LLC, viewed: 10th March 2019, https://www.psychologytoday.com/au/tests/iq/multiple-intelligences-learning-style-test
-  •	VARK Learn Limited 2019, The VARK Questionnaire How Do I Learn Best? VARK Questionnaire version 7.1, Viewed 10th March 2019 http://vark-learn.com/the-vark-questionnaire/?p=results 
+  
+  •	VARK Learn Limited 2019, The VARK Questionnaire How Do I Learn Best? VARK Questionnaire version 7.1, Viewed 10th March 2019 http://vark-learn.com/the-vark-questionnaire/?p=results
+  
 
 Other tests 
 
-  •	Psychology Today 2019, Integrity and Work Ethics Test, Sussex Publishers LLC, viewed: 10th March, 2019, http://psychologytoday.tests.psychtests.com/bin/transfer/  
+  •	Psychology Today 2019, Integrity and Work Ethics Test, Sussex Publishers LLC, viewed: 10th March, 2019, http://psychologytoday.tests.psychtests.com/bin/transfer/
+  
 
 Documents 
 
-  •	Australian Institute of Health and Welfare 2018, Australia’s health 2018. Australia’s health series no. 16. AUS 221. Canberra: AIHW, viewed 1oth March 2019 https://www.aihw.gov.au/getmedia/6bc8a4f7-c251-4ac4-9c05-140a473efd7b/aihw-aus-221-chapter-3-3.pdf.aspx 
-  •	Australian Institute of Health and Welfare 2014 Australia’s health 2014, Australia’s health series no. 14. Cat. no. AUS 178. Canberra: AIHW, viewed 1oth March 2019 https://www.aihw.gov.au/getmedia/8f7bd3d6-9e69-40c1-b7a8-40dca09a13bf/4_2-chronic-disease.pdf.aspx 
+  •	Australian Institute of Health and Welfare 2018, Australia’s health 2018. Australia’s health series no. 16. AUS 221. Canberra: AIHW, viewed 1oth March 2019 https://www.aihw.gov.au/getmedia/6bc8a4f7-c251-4ac4-9c05-140a473efd7b/aihw-aus-221-chapter-3-3.pdf.aspx
+  
+  •	Australian Institute of Health and Welfare 2014 Australia’s health 2014, Australia’s health series no. 14. Cat. no. AUS 178. Canberra: AIHW, viewed 1oth March 2019 https://www.aihw.gov.au/getmedia/8f7bd3d6-9e69-40c1-b7a8-40dca09a13bf/4_2-chronic-disease.pdf.aspx
+  
   •	World Health Organization 2014, Chronic diseases and health promotion, WHO, Viewed 10th March 2019,  https://www.who.int/chp/countries/en/
-  •	World Health Organization 2019, Overview - Preventing chronic diseases: a vital investment,  WHO, Viewed 10th March 2019, https://www.who.int/chp/chronic_disease_report/part1/en/index3.html 
-  •	World Health Organization 2014, The global burden of chronic, WHO, Viewed 10th March 2019, https://www.who.int/nutrition/topics/2_background/en/ 
-  •	Wierenga KL, Lehto RH, Given B 2017, Emotion Regulation in Chronic Disease Populations: An Integrative Review, US National Library of Medicine National Institutes of Health, viewed: 10th March 2019, https://www.ncbi.nlm.nih.gov/pubmed/28793948 
+  
+  •	World Health Organization 2019, Overview - Preventing chronic diseases: a vital investment,  WHO, Viewed 10th March 2019, https://www.who.int/chp/chronic_disease_report/part1/en/index3.html
+  
+  •	World Health Organization 2014, The global burden of chronic, WHO, Viewed 10th March 2019, https://www.who.int/nutrition/topics/2_background/en/
+  
+  •	Wierenga KL, Lehto RH, Given B 2017, Emotion Regulation in Chronic Disease Populations: An Integrative Review, US National Library of Medicine National Institutes of Health, viewed: 10th March 2019, https://www.ncbi.nlm.nih.gov/pubmed/28793948
+  
   •	Reinder de Vries June 2018, How To Make An App (In 9 Steps), LearnAppMaking.com 2019 viewed: 5th March 2019 https://learnappmaking.com/how-to-make-an-app/
 
 
