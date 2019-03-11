@@ -41,11 +41,11 @@ Throughout my life, I was fortunate to be expose to a vast variety of opportunit
 ‘Data analysts translate numbers into plain English Every business collects data, whether it's sales figures, market research, logistics, or transportation costs. A data analyst's job is to take that data and use it to help companies make better business decisions.’ -
 https://www.snagajob.com/job-descriptions/data-analyst/ 
 
-Ideal Job 1 Aus
+### Ideal Job 1 Aus
 
 https://www.seek.com.au/job/38494729?type=standout&searchrequesttoken=a91e7351-c479-4bab-a97b-d20d061860f3
 
-Ideal Job 2 USA 
+### Ideal Job 2 USA 
 
 https://www.glassdoor.com.au/Job/new-york-it-data-analyst-jobs-SRCH_IL.0,8_IC1132348_KO9,24.htm
 
@@ -77,7 +77,7 @@ http://vark-learn.com/the-vark-questionnaire/?p=results
 
 Throughout my learning journey, it has been evident that I am more a visual learning and do well with diagrams, list, mind mapping and project management charts. In a team environment my learning style means I will need to make lists and conduct maps of ideas, plans and construct working allocation charts that allow me not to become overwhelmed. This will enhance the productivity of the team with organizational skills while learning.  When forming a team, I will work well with others who are also able to use visuals, however it is not completely essential. 
 
-Integrity Test 
+### Integrity Test 
 http://psychologytoday.tests.psychtests.com/bin/transfer
 
 It was difficult to find a free online integrity test, however I found this test insulting and very basic. It did not consider working dynamics while making decisions regarding the integrity of others.
