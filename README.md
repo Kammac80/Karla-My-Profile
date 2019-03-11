@@ -119,6 +119,8 @@ The product will allow the user to personalise the face of the app, allowing cha
 
 The diagram below is the early stage design of the first step. This is one of the visual cues that will establish an easy to use grading of their emotional state at the time. Once the patient answers the simple questions regarding emotional state it will be able to suggest techniques that have previously saved in the app by either the patient and or the support professionals working with the client. The encouragement to utilise pre-set techniques is an essential feature of the App. This is subsequently because the fact when someone is overwhelmed by their environment it becomes difficult to recall the techniques required to assist in their emotional regulation. 
 
+![](0190311_141441 (1).jpg)
+
 The App will be designed to benefit the user! Once a pattern is established it is easier to find and implement solutions!
 
 ### Tools, skills and Technologies
