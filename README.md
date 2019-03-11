@@ -43,9 +43,13 @@ https://www.snagajob.com/job-descriptions/data-analyst/
 
 ### Ideal Job 1 Aus
 
+![](Idealjob1Aus.PNG)
+
 https://www.seek.com.au/job/38494729?type=standout&searchrequesttoken=a91e7351-c479-4bab-a97b-d20d061860f3
 
 ### Ideal Job 2 USA 
+
+![](Idealjob2USA.PNG)
 
 https://www.glassdoor.com.au/Job/new-york-it-data-analyst-jobs-SRCH_IL.0,8_IC1132348_KO9,24.htm
 
@@ -64,6 +68,8 @@ https://www.16personalities.com/infj-personality
 
 ### INFJ –
 
+![](INFJresults1.PNG)
+
 I was fortunate to discover the Myers-Briggs Personality theory many years ago. It was interesting to have the same results even though I have grown and changed in major increments since taking the test last.  Looking into the career and team work abilities of an INFJ was insightful yet confirming of the strength and weaknesses I felt I already possessed. I have also been a hard worker, problem solver and thrive if the project is helping the world be a better place.
 
 It is clear that I do not like confrontation and will do what needs to be done to dispel the opportunity of this occurring especially within a team environment. I will usual preconceive the potential for conflict between members before it becomes obvious to most. This allows me the ability to assist in resolving the issue before it affects the dynamics of the team. 
@@ -74,11 +80,13 @@ Being an introvert, I can take a back seat in a team environment, however when m
 ### VARK learning style test
 http://vark-learn.com/the-vark-questionnaire/?p=results  
 
-
+![](VARKlearningstyle1.PNG)
 Throughout my learning journey, it has been evident that I am more a visual learning and do well with diagrams, list, mind mapping and project management charts. In a team environment my learning style means I will need to make lists and conduct maps of ideas, plans and construct working allocation charts that allow me not to become overwhelmed. This will enhance the productivity of the team with organizational skills while learning.  When forming a team, I will work well with others who are also able to use visuals, however it is not completely essential. 
 
 ### Integrity Test 
 http://psychologytoday.tests.psychtests.com/bin/transfer
+
+![](integritytest1.PNG)
 
 It was difficult to find a free online integrity test, however I found this test insulting and very basic. It did not consider working dynamics while making decisions regarding the integrity of others.
 
